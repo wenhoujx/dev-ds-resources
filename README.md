@@ -13,6 +13,7 @@ This repo compiles resources can be helpful for DS and SDE job-seekers.
 ## FAQ 
 ### Should i put years of experience next to my language skills? 
 It's not necessary. You can use bold or highlight on skills you want to call out, or you can split to master proficincy or normal proficincy.
+
 It's hard to count the YOE for a language, since you may first learned python in high school, use it on and off for 5 years, and used it intensely during your master research. Count the 5 years "gap" or not is personal choice. 
 
 
