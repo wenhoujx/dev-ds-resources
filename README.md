@@ -2,6 +2,8 @@
 
 This repo compiles resources can be helpful for DS and SDE job-seekers.
 
+If you find this repo helpful, please give it a star, and connect with me on [linkedin](https://www.linkedin.com/in/wenshuai-hou-4a11834b/)
+
 ## certification and training
 
 - [databricks free training](https://www.databricks.com/resources/learn/training/lakehouse-fundamentals?scid=7018Y000001Fi0eQAC&utm_medium=paid+search&utm_source=google&utm_campaign=17882079543&utm_adgroup=140434566878&utm_content=training&utm_offer=lakehouse-fundamentals&utm_ad=665885915712&utm_term=databricks%20certification&gad_source=1&gclid=Cj0KCQiA4NWrBhD-ARIsAFCKwWtUNRpeQ8jTGQ_gfdKSzWPqMJfPp6cWhTqQSfnN4iYj60JTOo9pXs0aAoiYEALw_wcB)
