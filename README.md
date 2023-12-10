@@ -10,6 +10,35 @@ This repo compiles resources can be helpful for DS and SDE job-seekers.
 
 ## FAQ
 
+### Internal referral or online application?
+
+Referral is usually better, [teamblind](https://www.teamblind.com/) has lots of people willing to refer you. They get the bonus if you get hired.
+I found teamblind easier to get referral than cold reach out on linkedin.
+
+Don't dismiss online application (or 海投), my personal experience is this is a numbers game, the more you apply, the more likely you will get an interview.
+
+### Does intern or master degree count as working experience?
+
+It depends on the company.
+
+Some job description state it explicitly, e.g. "3 years of working experience or 1 year of working experience with a master degree".
+
+My general rule is intern experience counts, and master degree counts as at least 2 year of working experience.
+
+Don't be shy, apply that position and you will find out, there is nothing to lose other than time spent on that cover letter.
+
+### What are project opportunities for students
+
+It's hard to come up with a project on your own, you should find a team or a community.
+
+- [kaggle](https://www.kaggle.com/), good for DS
+- Meetup has local communities, go to bigger meetups, usually someone will pitch an idea, you can join the one you are interested in.
+- School projects, lots of graduate program recruits graduate or undergraduate students to work on projects. Go talk to PHD students or professors, don't be shy.
+- Open source, i don't think this has good ROI, rarely a graduate student can contribute to a project in a major way unless you are really into it. Reading their code is always learning and fun.
+- github/Youtube resources, there are quality youtube walkthrough on how to build something.
+  - [how to build x](https://github.com/codecrafters-io/build-your-own-x)
+  - [projets to learn aws](https://www.youtube.com/watch?v=06VgLTqNvU8)
+
 ### What are high level job categories for SDE, their skill sets and their career path?
 
 Categories:
