@@ -12,6 +12,43 @@ If you find this repo helpful, please give it a star, and connect with me on [li
 
 ## FAQ
 
+### Should i get certificates? aws? udemy?
+
+My personal experience is yes for east coast, no for west coast.
+
+Pure tech firm even don't care about your degree, they care about your skills and experience.
+
+East coast firms are more traditional, fintech or gov constractors pay some attention to certificates, especially aws, e.g. capitalone, bloomberg, booz allen hamilton, etc.
+
+### Can't debug during coding interview?
+
+Phycologically, you should view this as a pair programming collaboration session, you are not expected to solve the problem by yourself.
+
+- communicate with the interviewer, ask questions, make sure they agree with your approach before coding.
+- if you get stuck, walk and talk through your code with the interviewer, they should give you some hints if they see it.
+
+Again, view this as an collaboration session, not a test. Experienced interviewers will make sure you have a good experience. They know you can solve the problem given a proper IDE and breakpoints. They want to know if you can actually write code, if you can handle stress, if you can communicate, if you can collaborate.
+
+There are some tricks I use:
+
+- Play dumb, if a problem has a slow but easy to write solution, propose it to the interviewer. Once they give you a green light, you should write the easy to write solution first. Later you should mention you can use some fancy algo or data structure for a better solution.
+- If you are not sure about the syntax, ask the interviewer. They will tell you.
+- Write the code in a way that you can easily debug, e.g. save the results in an array, return its length, instead of using a counter.
+- Write your code in blocks, write some easy test for each block before moving on to the next one.
+  - If you write and finish the whole code in one go, you will have a bug, and it's unlikely to be interactive with the interviewer.
+- Know language batteries well and use them, for example in python, use `bisect` for binary chop, use `Counter` for counting, use `defaultdict` for grouping, use `heapq` for min-heap, use `string.rindex` to find first occurrence from right, You can always tell the interviewer you are testing if the basic idea works, and you will write your own implementation later.
+  - it's a bonus that you know those tools well and can use them. Often the interviewer won't ask you to handroll them later if you showed enough coding proficiency already.
+
+### AI LLM impact to SDE?
+
+There are impact, but not as much for senior roles.
+
+Senior SDE spend more time reading code, it's great LLM can help you write them. They spend time to design arch, understand tradeoffs, writing proposals, all of which LLM can help, but can't replace right now.
+
+E.g. Senior UI developer creates amazingly consistent UX that's out of scope for LLM right now.
+
+E.g. Senior BE dev designs message queue to database and sync to a secondary search engine. LLM can't design the whole system for you b/c they don't know the domain or the data modeling.
+
 ### Internal referral or online application?
 
 Referral is usually better, [teamblind](https://www.teamblind.com/) has lots of people willing to refer you. They get the bonus if you get hired.
