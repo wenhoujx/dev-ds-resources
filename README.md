@@ -2,7 +2,11 @@
 
 This repo compiles resources can be helpful for DS and SDE job-seekers.
 
-If you find this repo helpful, please give it a star, and connect with me on [linkedin](https://www.linkedin.com/in/wenshuai-hou-4a11834b/)
+## Contact Me
+
+- If you find this repo helpful, please give it a star
+- connect with me on [linkedin](https://www.linkedin.com/in/wenshuai-hou-4a11834b/)
+- add me on wechat: nilnilnullnull
 
 ## certification and training
 
