@@ -16,6 +16,43 @@ This repo compiles resources can be helpful for DS and SDE job-seekers.
 
 ## FAQ
 
+### Climb the ladder?
+
+Mostly two ways:
+
+1. Switch to more visible team within the company.
+2. Switch to another company, get a higher title and salary, and keep doing it.
+3. Combine the two above.
+
+### Recruiter asked for salary expectation?
+
+Don't tell, keep all your cards to yourself. If you tell, you will lose negotiation power. If they insist, tell them:
+
+1. ask for the range of the role you are applying for, and tell them the higher end matches your expectation. Or tell them that range is too low in rare cases.
+2. tell them you are open to negotiation, and you are looking for a good fit.
+3. tell them you prioritize the role and the team and personal growth over the salary.
+
+The best way of negotiation is to have multiple offers, and let them compete for you.
+
+### Too many openings, how to choose which to apply?
+
+If they don't limit the number of applications, apply all of them. It's a numbers game, the more you apply, the more likely you will get an interview.
+
+Talk to the recruiter, ask them to help you choose. Find recruiters with "we're hiring" tag and talk to them.
+
+List all of the opening, ignore the ones you don't understand, pick the ones you roughly know what it is, and apply.
+
+### Python for interview lang?
+
+Yes, python is definitely the best language for interview, it's concise, batteries included. Most interviewers know about Python. Python is also a good skill to have since it's widely used in production software.
+
+### Can't fit in current team?
+
+Two skills you must have to thrive:
+
+1. Fit in the team. Chinese are going to be the minority in most companies, you will have to learn how to fit in.
+2. Create connections with other teams in the company. Pay attention to networking with other teams in the company, and be open to opportunities.
+
 ### Should i get certificates? aws? udemy?
 
 My personal experience is yes for east coast, no for west coast.
