@@ -16,6 +16,27 @@ This repo compiles resources can be helpful for DS and SDE job-seekers.
 
 ## FAQ
 
+### guided plan to do leetcode?
+
+If you just get started, start with leetcode [blind75](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions) or [top interview 150](https://leetcode.com/studyplan/top-interview-150/).
+
+- Note start with only easy ones using the language you prefer.
+- Then move on to medium ones.
+- Finally you can safely skip hard ones, I've never had a hard interview question in my career. I viewed it as a sign that the interviewer is telling you run away from the company.
+
+Once you are done with both, you should have done roughly 200 easy and medium questions. Work your way up to 300 easy, and 150 medium ones, you then should be able to crack most interview questions.
+
+**Is this enough?**
+In most cases, yes. If you can't solve problems on the spot, you should try honing your communicative and interview skills to get hints from the interviewer. Remember, interview is a collaboration session, not a test.
+
+**Cover all categories!**
+It's important to cover all categories, e.g. binary search, DP, greedy, kadane, string, array, linked list, tree, graph, etc. I found asking chatGPT to list leetcode categories, then ask it to provide 5-10 questions per category a good way to cover all categories.
+
+**remember to review and redo solved questions**
+There are questions you solved after checking the answer, you should redo them after a while to make sure you truly understand them.
+
+Try solve them in a different language is a way to keep things interesting.
+
 ### Climb the ladder?
 
 Mostly two ways:
